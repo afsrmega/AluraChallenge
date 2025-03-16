@@ -22,6 +22,8 @@ Alura Secret Friend Game es un proyecto enfocado al entretenimiento. Se basa en 
 
 
 ## Autores
+
+Andrés Sereno (GutsMega)
 <img width="323" alt="Andres Programmer" src="https://github.com/user-attachments/assets/3c938723-2731-4057-923f-185483b71be8" />
 
 |  |
