@@ -1,5 +1,5 @@
 # AluraChallenge
-<h1 align="center"> Bienvenidos a mi Desafío Alura Secret Friend Game </h1>
+<h1 align="center"> Juego de Amigo Secreto </h1>
 <img width="328" alt="Logo de Secret Friend Game" src="https://github.com/user-attachments/assets/615e3e3a-72d3-4de4-9481-aeec28fda16e" />
 
 <h1 align="center"> Descripción del Proyecto </h1>
