@@ -18,7 +18,7 @@ Alura Secret Friend Game es un proyecto enfocado al entretenimiento. Se basa en 
 
 \## 🛠️ Abre y ejecuta el proyecto
 
-**Haz doble click en app.js**
+**Haz doble click en index.htlm**
 
 
 ## Autores
