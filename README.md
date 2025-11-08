@@ -1,9 +1,9 @@
-# AluraChallenge
+# SecretFriend
 <h1 align="center"> Juego de Amigo Secreto </h1>
 <img width="328" alt="Logo de Secret Friend Game" src="https://github.com/user-attachments/assets/615e3e3a-72d3-4de4-9481-aeec28fda16e" />
 
 <h1 align="center"> Descripción del Proyecto </h1>
-Alura Secret Friend Game es un proyecto enfocado al entretenimiento. Se basa en el tradicional juego de amigo secreto. El usuario deberá agregar los nombres de los amigos participantes (incluído él mismo). Finalmente se realizará un sorteo pseudo-aleatorio para encontrar al amigo secreto. Una vez haya un resultado, se podrá jugar de nuevo sin tener en cuenta al amigo elegido la primera vez. También se pueden agregar más amigos cuando queden pocos amigos para seguir sorteando, en este caso se reiniciará el sorteo.
+Secret Friend Game es un proyecto enfocado al entretenimiento. Se basa en el tradicional juego de amigo secreto. El usuario deberá agregar los nombres de los amigos participantes (incluído él mismo). Finalmente se realizará un sorteo pseudo-aleatorio para encontrar al amigo secreto. Una vez haya un resultado, se podrá jugar de nuevo sin tener en cuenta al amigo elegido la primera vez. También se pueden agregar más amigos cuando queden pocos amigos para seguir sorteando, en este caso se reiniciará el sorteo.
 
 :construction: Proyecto en construcción :construction:
 
